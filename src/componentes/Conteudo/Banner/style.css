@@ -1,0 +1,24 @@
+section {
+    height: 100vh;
+    margin: auto;
+}
+
+.box-banner {
+    height: 100%;
+    background-image: url('/public/assets/capa.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    font-size: 40px;
+    padding: 100px;
+    color: #fff;
+}
+
+
+
+
+
+    
