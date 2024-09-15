@@ -4,7 +4,7 @@ import './style.css'
 export default function Sobre() {
     return (
         <section className='section-sobre'>
-            <h1>QUEM SOMOS NÓS?</h1>
+            <h1 className='title'>QUEM SOMOS NÓS?</h1>
             <div className='box-text'>
                 <p>Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, a Óticas vida iniciou suas atividades focada no atendimento ao público de</p>
                 <p>renda mais baixa, sempre com o objetivo de proporcionar ao cliente um bom atendimento, qualidade e preço baixo.</p>
